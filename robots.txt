@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-iyz530.yoursingles.online/sitemap.xml
